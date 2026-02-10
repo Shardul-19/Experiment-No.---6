@@ -148,3 +148,7 @@ Else tax = 5% of 250000 + 20% of 500000 + 30% of amount above 1000000.
 Print tax amount.
 
 Stop.
+
+CONCLUSION :
+
+In this experiment, we learned how dictionaries store values in key–value form and how they can be accessed, updated, modified, and searched. Concepts like retrieving values safely using get(), validating login credentials, and finding the highest marks were successfully implemented. Dictionaries provide fast, flexible, and powerful data handling in Python.
